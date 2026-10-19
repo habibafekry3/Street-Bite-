@@ -31,40 +31,50 @@
 ### Authentication & splash
 
 <p align="center">
-  <img src="screenshots/splash.jpg" width="200" alt="Splash Screen"/>
-  <img src="screenshots/login.jpg" width="200" alt="Login Screen"/>
-  <img src="screenshots/signup.jpg" width="200" alt="Sign Up Screen"/>
+  <img src="screenshots/splash.jpg" width="180" alt="Splash Screen"/>
+  <img src="screenshots/login_l.jpg" width="180" alt="Login Screen"/>
+  <img src="screenshots/signup_l.jpg" width="180" alt="Sign Up Screen"/>
 </p>
 
 ### Home & Vendors
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="200" alt="Home Screen"/>
-  <img src="screenshots/vendors.jpg" width="200" alt="Nearby Vendors"/>
+  <img src="screenshots/home.jpg" width="180" alt="Home Screen"/>
+  <img src="screenshots/vendors.jpg" width="180" alt="Nearby Vendors"/>
 </p>
 
 ### Favorites & Cart
 
 <p align="center">
-  <img src="screenshots/favourite.jpg" width="200" alt="Favorites Screen"/>
-  <img src="screenshots/cart.jpg" width="200" alt="Cart Screen"/>
+  <img src="screenshots/favourite.jpg" width="180" alt="Favorites Screen"/>
+  <img src="screenshots/cart.jpg" width="180" alt="Cart Screen"/>
 </p>
 
 ### Orders & Profile
 
 <p align="center">
-  <img src="screenshots/orders.jpg" width="200" alt="Orders Screen"/>
-  <img src="screenshots/profile.jpg" width="200" alt="Profile Screen"/>
+  <img src="screenshots/orders.jpg" width="180" alt="Orders Screen"/>
+  <img src="screenshots/profile.jpg" width="180" alt="Profile Screen"/>
 </p>
 
 ### Arabic Interface
 
 <p align="center">
-  <img src="screenshots/home_ar.jpg" width="200" alt="Arabic Home Screen"/>
-  <img src="screenshots/favourite_ar.jpg" width="200" alt="Arabic Favorites Screen"/>
-  <img src="screenshots/cart_ar.jpg" width="200" alt="Arabic Cart Screen"/>
-  <img src="screenshots/orders_ar.jpg" width="200" alt="Arabic Favorites Screen"/>
-  <img src="screenshots/profile_ar.jpg" width="200" alt="Arabic Cart Screen"/>
+  <img src="screenshots/home_ar.jpg" width="180" alt="Arabic Home Screen"/>
+  <img src="screenshots/favourite_ar.jpg" width="180" alt="Arabic Favorites Screen"/>
+  <img src="screenshots/cart_ar.jpg" width="180" alt="Arabic Cart Screen"/>
+  <img src="screenshots/orders_ar.jpg" width="180" alt="Arabic Favorites Screen"/>
+  <img src="screenshots/profile_ar.jpg" width="180" alt="Arabic Cart Screen"/>
+</p>
+
+### Dark Theme
+
+<p align="center">
+  <img src="screenshots/home_d.jpg" width="180" alt="Dark Home Screen"/>
+  <img src="screenshots/fav_d.jpg" width="180" alt="Dark Favorites Screen"/>
+  <img src="screenshots/cart_d.jpg" width="180" alt="Dark Cart Screen"/>
+  <img src="screenshots/order_d.jpg" width="180" alt="Dark Favorites Screen"/>
+  <img src="screenshots/profile_d.jpg" width="180" alt="Dark Cart Screen"/>
 </p>
 
 ## 🏗️ Architecture
