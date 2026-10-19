@@ -28,9 +28,10 @@
 
 ## 📸 Screenshots
 
-### Authentication
+### Authentication & splash
 
 <p align="center">
+  <img src="screenshots/splash.jpg" width="200" alt="Splash Screen"/>
   <img src="screenshots/login.jpg" width="200" alt="Login Screen"/>
   <img src="screenshots/signup.jpg" width="200" alt="Sign Up Screen"/>
 </p>
